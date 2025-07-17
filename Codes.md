@@ -9,6 +9,7 @@ Senha_usuario = input("Agora digite sua senha:")
 
 if Email_usuario and Senha_usuario and Nome_usuario and Sobrenome_usuario:
     print("cadastro concluido")
+    
 
 
 Database.py
@@ -23,7 +24,7 @@ Dados_Sobrenome_Usuario = Registrer_system.Sobrenome_usuario
 
 print(f"Bem vindo {Dados_Nome_Usuario} {Dados_Sobrenome_Usuario}, sua senha é {Dados_senha} e seu email é {Dados_pessoas}")
 
-BONUS
+
 
 Login_system
 
